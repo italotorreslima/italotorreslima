@@ -1,5 +1,5 @@
 
-<img  width: 5.5rem; height: 5.5rem; border-radius: 50%; src="https://github.com/italotorreslima.png">
+<img  width: 20px; height: 20px; border-radius: 50%; src="https://github.com/italotorreslima.png">
 
 # Ítalo Torres
 
