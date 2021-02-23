@@ -1,6 +1,6 @@
 # Ítalo Torres
 
-## Olá pessoal 👋
+## Hey Guys 👋
 I love to think and work with programming to solve problems.
 I'm a FullStack Developer:computer:
 
