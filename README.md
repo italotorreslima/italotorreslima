@@ -2,7 +2,7 @@
 
 ## Hey Guys 👋
 I love to think and work with programming to solve problems.
-I'm a FullStack Developer:computer:
+I'm a FrontEnd Developer:computer:
 
  :rocket:  &nbsp; I'm working at **4Bytes Engenharia Jr**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React to learn more and more about this technology
