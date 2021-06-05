@@ -1,6 +1,7 @@
 ## Hey Guys 👋
-I love to think and work with programming to solve problems.
-I'm a FrontEnd Developer:computer:
+
+- I'm a FrontEnd Developer:computer:
+- I love to think and work with programming to solve problems.:nerd_face:
 - I live in :brazil:, northeast :desert::sunrise:
 - I have been learnig more about React Js :sparkling_heart:
 
