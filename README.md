@@ -6,13 +6,13 @@ I'm a FrontEnd Developer:computer:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/italo-torres/" target="_blank">
-<img align="center" alt="Ítalo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="Ítalo-linkedin" height="30" width="30" src="https://image.flaticon.com/icons/png/512/145/145807.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/italotrres/" target="_blank">
-<img align="center" alt="Ítalo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="Ítalo-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/185/185985.png" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/italo.torres.75/" target="_blank">
-<img align="center" alt="Ítalo-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+<img align="center" alt="Ítalo-facebook" height="30" width="30" src="https://image.flaticon.com/icons/png/512/145/145802.png" style="max-width:100%;">
 </a>
 
 ## My Skills
